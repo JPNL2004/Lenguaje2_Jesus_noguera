@@ -1,5 +1,5 @@
 # Lenguaje2_Jesus_Noguera
-Profesor Ing_Alonso
+Profesor Ing_Alonzo
 # Proyecto: Tarea 1
 **Estudiante** Jesus Noguera
 **Materia** Lenguaje de Programacion 2
