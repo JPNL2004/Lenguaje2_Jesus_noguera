@@ -6,4 +6,3 @@ Profesor Ing_Alonzo_De_Jesus_Centeno_Sanchez
 **Materia** Lenguaje de Programacion 2
 **Carrera** Ingenieria De Sistema
 **Semestre** 8vo
-
